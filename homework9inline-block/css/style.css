@@ -1,0 +1,15 @@
+.content-block{
+    text-align: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.wrapper{
+    font-size: 0;
+}
+.item{
+    width: 25%;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    display: inline-block;
+    font-size: 60px;
+}
